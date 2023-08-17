@@ -18,8 +18,7 @@ const branches = {
   meta: {
     title: 'Monitoring',
     description: 'Monitoring',
-    icon: 'mdi-bank',
-    dd: null
+    icon: 'mdi-bank'
   },
   children: modules
 }
